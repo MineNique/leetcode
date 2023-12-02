@@ -1,9 +1,20 @@
-# CP QUESTION
+# Comitative Programming QUESTION
+
+## Dir Structure
+
+    ├── NeetCode
+    │ ├── Basics
+    │ ├── Blind
+    │ ├── 150
+    │ ├── 450
+    │ └── Readme.md
+    ├── LeetCode
+    └── Readme.md
 
 ## [NeetCode](https://neetcode.io/practice)
 
-- 150 Questions From NeetCode
+- For base practice
 
 ## [LeetCode](https://leetcode.com/problemset/all/)
 
-- For more pratice.
+- For more practice.
